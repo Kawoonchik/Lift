@@ -1,0 +1,14 @@
+D:\visual studio\Shos' tut ye\yoy nay bude\bin\Debug\net8.0\yoy nay bude.exe
+D:\visual studio\Shos' tut ye\yoy nay bude\bin\Debug\net8.0\yoy nay bude.deps.json
+D:\visual studio\Shos' tut ye\yoy nay bude\bin\Debug\net8.0\yoy nay bude.runtimeconfig.json
+D:\visual studio\Shos' tut ye\yoy nay bude\bin\Debug\net8.0\yoy nay bude.dll
+D:\visual studio\Shos' tut ye\yoy nay bude\bin\Debug\net8.0\yoy nay bude.pdb
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.AssemblyInfoInputs.cache
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.AssemblyInfo.cs
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.csproj.CoreCompileInputs.cache
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.dll
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\refint\yoy nay bude.dll
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.pdb
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\yoy nay bude.genruntimeconfig.cache
+D:\visual studio\Shos' tut ye\yoy nay bude\obj\Debug\net8.0\ref\yoy nay bude.dll
